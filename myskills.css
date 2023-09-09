@@ -1,0 +1,50 @@
+.icons {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 50%;
+}
+
+.cppimg {
+    width: 81px;
+    height: 86px;
+    border-radius: 50%;
+    background-color: #fff;
+    box-shadow: 0 0 19px 14px #fff, 0 0 72px 24px #b400ff, 0 0 71px 64px #ff00d4;
+}
+
+.cimg {
+    width: 81px;
+    height: 86px;
+    border-radius: 50%;
+    background-color: #fff;
+    box-shadow: 0 0 19px 14px #fff, 0 0 72px 24px #b400ff, 0 0 71px 64px #ff00d4;
+}
+
+.pythonimg {
+    width: 81px;
+    height: 86px;
+    border-radius: 50px;
+    background-color: #fff;
+    box-shadow: 0 0 19px 14px #fff, 0 0 72px 24px #b400ff, 0 0 71px 64px #ff00d4;
+}
+
+.skillssec {
+    margin-top: 100px;
+}
+
+.myskills {
+    margin-left: 658px;
+    margin-bottom: 141px;
+    /* margin-top: 10px; */
+    font-size: 54px;
+}
+
+.skillstxt {
+    align-items: center;
+    width: 85%;
+    margin-top: 164px;
+    margin-left: 144px;
+    font-size: 27px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

@@ -1,0 +1,143 @@
+.header {
+    padding-top: 30px;
+    width: 100%;
+    z-index: 100;
+    /* margin-left: 50px; */
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-between;
+    /* border-bottom-width: 5px; */
+    position: fixed;
+    top: 0px;
+    background-color: rgb(186, 244, 70);
+    border-bottom-style: outset;
+
+}
+
+.homesc {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.portfolio {
+    margin-right: 0;
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: monospace;
+}
+
+.middle {
+    display: flex;
+    flex-direction: row;
+    margin-left: -110px;
+}
+
+.right {
+    justify-content: space-between;
+}
+
+.twitternav {
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+    /* background-color: transparent; */
+    background: none;
+}
+
+.facebooknav {
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+}
+
+.home-but {
+    border: none;
+    cursor: grab;
+    margin-right: 21px;
+
+    background-color: rgb(186, 244, 70);
+}
+
+.skills-but {
+    border: none;
+    cursor: grab;
+    margin-right: 21px;
+    margin-left: 20px;
+    background-color: rgb(186, 244, 70);
+}
+
+/* 
+.side-img{
+    position: absolute;
+} */
+.about-but {
+    border: none;
+    cursor: grab;
+    margin-left: 21px;
+    margin-right: 21px;
+    background-color: rgb(186, 244, 70);
+}
+
+.contact-but {
+    border: none;
+    cursor: grab;
+    margin-left: 20px;
+
+    background-color: rgb(186, 244, 70);
+}
+
+.foto0 {
+    border-radius: 50%;
+    /* right: 364px; */
+    right: 80px;
+    top: 156px;
+    position: absolute;
+    height: 391px;
+    width: 380px;
+    z-index: 0;
+}
+
+.text {
+    position: realtive;
+    margin-left: 30px;
+    display: flex;
+    margin-bottom: 134px;
+    margin-top: 188px;
+    /* align-items: center; */
+    flex-direction: column;
+}
+
+.hi {
+    margin-bottom: 0px;
+    font-size: 22px;
+}
+
+.name {
+    margin-top: 10px;
+    font-size: 54px;
+    margin-bottom: 0px;
+}
+
+.intro {
+
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.webd {
+
+    margin-bottom: 15px;
+    margin-top: -30px;
+    font-size: 34px;
+
+}
+
+.cv-but {
+    margin-top: 20px;
+    color: none;
+
+}

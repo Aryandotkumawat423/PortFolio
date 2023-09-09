@@ -1,0 +1,32 @@
+.aboutme-head{
+ 
+    margin-bottom: 50px;
+}
+/* .foto2{
+    height: 70px;
+    width: 70px;
+   
+} */
+.aboutme{
+   
+    background-image: url(91953d3a-0ec8-4c67-a58c-57c275773d25.jpg);
+    /* background-size: auto; */
+    height: 100vh;
+
+
+
+}
+.aboutme-text {
+    font-size: 25px;
+    /* height: 100%; */
+    width: 95%;
+    background-color: white;
+    color: white;
+    padding-top: 124px;
+    padding: 30px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* color: transparent; */
+    padding-top: 100px;
+    text-shadow: 0 0 8px #000;
+}
